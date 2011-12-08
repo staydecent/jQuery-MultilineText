@@ -13,8 +13,5 @@ If you are handling form submission with ajax, you need
 to call `.multilineText()` on `success`.
 
 ## Examples
-I created an example for a provisionary coding task.
-The example submits the form with ajax, which is then handled
-with php, saving data to a Amazon SimpleDB instance.
-
-[View Example](http://simpledb.phpfog.com/)
+Check out the blog post here: http://staydecent.ca/bits/jquery-multiline-text-input
+Or view the JSFiddle here: http://jsfiddle.net/dQSNP/5/
